@@ -2,8 +2,6 @@
 ---     SCHEMA
 ---
 
-
-
 -- QA's
 DROP TABLE IF EXISTS qas;
 CREATE TABLE qas (
